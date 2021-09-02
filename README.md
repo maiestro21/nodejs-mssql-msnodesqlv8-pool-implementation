@@ -24,10 +24,12 @@ nodemom app.js
 npm start
 
 /// Alternative for local nodemon via packages js
+
 npm start
 
 
 //Scan for vulns
+
 npm audit
 snyk test
 snyk wizard
