@@ -16,9 +16,11 @@ The examples are in the index.js controller - names are not correlated but as I 
 
 
 #Starting
+
 npm install
 
 node app.ks
+
 nodemom app.js
 
 npm start
@@ -31,7 +33,10 @@ npm start
 //Scan for vulns
 
 npm audit
+
 snyk test
+
 snyk wizard
+
 
 
