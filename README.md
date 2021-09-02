@@ -33,6 +33,3 @@ snyk test
 snyk wizard
 
 
-
-To implement against CSRF:
-https://www.npmjs.com/package/csurf
